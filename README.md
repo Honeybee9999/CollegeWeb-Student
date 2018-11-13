@@ -17,9 +17,8 @@ Update includes:
 
 =======================================================================
 
-Please note, this build validates users by using cookies instead of sessions. Cookies can be found 
-marked 
-with packets SNID & SNID_. 
+Please note, this build validates users by using cookies instead of sessions. 
+Cookies can be found marked with packets SNID & SNID_. 
 
 ========================================================================
 
