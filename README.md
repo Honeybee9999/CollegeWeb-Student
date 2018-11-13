@@ -28,7 +28,7 @@ Support
 
 >> AJAX has been used at places such as comments for easier live updates. 
 >> Profile Prictures are implemented using IMGUR API. 
->> All HTML designs have been completed by using BOOTSTRAP STUDIO.
+>> All HTML designs have been completed using BOOTSTRAP STUDIO.
 
 --------------------------------------------
 For Developers
